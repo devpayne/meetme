@@ -1,0 +1,18 @@
+.footer {
+  text-align: center;
+  padding: 48px 24px;
+  border-top: 1px solid var(--border);
+  color: var(--text-faint);
+  font-size: 0.825rem;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.footer span {
+  color: var(--accent-light);
+}
+
+.footer__sub {
+  font-size: 0.75rem;
+}
