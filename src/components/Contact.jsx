@@ -24,12 +24,12 @@ export default function Contact() {
             a project idea, or just want to say hi — my inbox is open.
           </p>
           <div className="contact__links">
-            <a href="mailto:your@email.com" className="contact__link">
+            <a href="mailto:devpayne@gmail.com" className="contact__link">
               <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
                 <rect x="2" y="4" width="20" height="16" rx="2" />
                 <path d="m2 7 10 7 10-7" />
               </svg>
-              your@email.com
+              devpayne@gmail.com
             </a>
             <a href="https://github.com/yourusername" className="contact__link" target="_blank" rel="noopener noreferrer">
               <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
